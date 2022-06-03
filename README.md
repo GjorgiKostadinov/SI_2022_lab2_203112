@@ -14,9 +14,11 @@
 
 
 4.  Every Statement
-![image](https://user-images.githubusercontent.com/72806483/171414211-e1acde46-5c27-4017-bbae-db9cb70d87f0.png)
+![image](https://user-images.githubusercontent.com/72806483/171913789-6a372c20-8e66-4773-aa0f-a6070a492be4.png)
+
 
 
 5.Every Branch
-![image](https://user-images.githubusercontent.com/72806483/171414354-2a6ca96e-6d11-47ca-9f33-d9aeb6fc8214.png)
+![image](https://user-images.githubusercontent.com/72806483/171913738-1c2c6ffc-3cba-4d95-9747-62ac2f948924.png)
+
 
